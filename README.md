@@ -1,2 +1,1 @@
-# SE-RentalCarApp
-DD
+# Team name:
