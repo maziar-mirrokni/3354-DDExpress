@@ -1,1 +1,1 @@
-# Team Name: DD Express
+# DD Express
