@@ -1,0 +1,20 @@
+Project Scope: 
+Car Rental Software
+User:
+	Create new account
+	User login
+	Edit user profile & password
+View:
+	View available cars for rental
+	Search cars by make, model, year, etc.
+	Select desired car for rental
+	Rental orders:
+	View order history
+	View bills and invoices
+	Place/Modify order(choose date)
+	Choose Payment type & deposit
+	Save payment method & billing address
+Admin:
+	Add cars 
+	Refund order
+	Delete/Ban account
