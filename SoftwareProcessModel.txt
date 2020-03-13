@@ -1,4 +1,0 @@
-We will be using incremental development. The incremental method will drastically reduce the cost of implementing
-requirements changes, as well as reducing the amount of analysis and documentation required so that we can focus more on
-the development of the app itself. It also allows us easier access to customer feedback so that we can continue to improve
-and refine the design of our app to make it easy to use for everyone.
